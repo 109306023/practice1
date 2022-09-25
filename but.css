@@ -1,0 +1,44 @@
+#shopping {
+  border: 12px;
+  background-color: transparent;
+  position: fixed;
+  top: 35px;
+  left: 1100px;
+}
+#shopping:hover {
+  cursor: pointer;
+}
+
+#user {
+  border: 12px;
+  background-color: transparent;
+  position: fixed;
+  top: 35px;
+  left: 1150px;
+}
+#user:hover {
+  cursor: pointer;
+}
+
+#search {
+  border: 12px;
+  background-color: transparent;
+  position: fixed;
+  top: 35px;
+  left: 1200px;
+}
+#search:hover {
+  cursor: pointer;
+}
+
+#btn {
+  background-color: transparent;
+  border-color: black;
+  border-radius: 8px;
+  margin-left: 30px;
+  width: 35px;
+  height: 25px;
+}
+#btn:hover {
+  cursor: pointer;
+}/*# sourceMappingURL=but.css.map */

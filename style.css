@@ -1,0 +1,142 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif+TC&amp;display=swap);
+
+h3{
+    color:black;
+    font-size: 25px;
+    font-family: 'Noto Serif TC', serif;
+    margin-top: 16px;
+    margin-left: 40px;
+}
+
+h1{
+    color:black;
+    font-size: 20px;
+    font-family: 'Noto Serif TC', serif;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#story{
+    color:black;
+    font-size: 16px;
+    font-family: 'Noto Serif TC', serif;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#fb{
+    color:black;
+    font-size: 16px;
+    font-family: 'Noto Serif TC', serif;
+    margin-left:50px;
+}
+
+#feedback{
+    width: 20%;
+    height: 60px;
+    margin-left: 50px;
+    overflow: hidden;
+}
+
+
+
+#paragraph1{
+    color:black;
+    font-size: 20px;
+    font-family: 'Noto Serif TC', serif;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+
+.zero{
+    position: fixed;
+    width:100%;
+    height: 70px;
+    background-color: white;
+    border-color: #AFAFAF;
+    border-width: 1px;
+    border-bottom-style: solid;
+}
+
+.first{
+    overflow: hidden;
+    width: auto;
+    height: auto;
+}
+
+.second{
+    height:336px;
+    display:flex;
+    overflow-x: auto;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.second::-webkit-scrollbar{
+    width: 0;
+    height:0;
+}
+
+.third{
+   margin-bottom: 50px;
+}
+
+.forth{
+    height: 150px;
+}
+.fifth{
+    padding-top: 1px;
+    background-color:#7D52E3;
+    width: auto;
+    height: 300px;
+    margin-top: 60px;
+}
+
+#contitle{
+    color:black;
+    font-size: 20px;
+    font-family: 'Noto Serif TC', serif;
+    margin-top: 19px;
+    margin-left: 40px;
+}
+
+#storytitle{
+    color:black;
+    font-size: 20px;
+    font-family: 'Noto Serif TC', serif;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#fstpic{
+    width: 459px;
+    height: 386px;
+    margin-left: 50px;
+    margin-top: 50px;
+    float:left;
+}
+
+#intro{
+    margin-left: 500px;
+    margin-top:200px;
+}
+
+#secpic{
+    min-width: 372px;
+    height: 333px;
+    margin-right: 60px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+hr{
+    background-color: #AFAFAF;
+    height: 0.2px;
+    border: 0;
+}
+
